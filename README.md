@@ -21,3 +21,18 @@ For more detailed information about MACE, including its architecture, features, 
 Make sure to carefully follow the steps mentioned above to successfully integrate multi-scale functionality into MACE. If you encounter any issues or have questions, refer to the documentation or reach out to the community for support.
 
 Happy coding with multi-scale MACE!
+
+
+## References
+
+If you use this code, please cite our papers:
+```text
+@misc{hu2023efficient,
+      title={Efficient Machine Learning Force Field for Large-Scale Molecular Simulations of Organic Systems}, 
+      author={Junbao Hu and Liyang Zhou and Jian Jiang},
+      year={2023},
+      eprint={2312.09490},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.soft}
+}
+```
